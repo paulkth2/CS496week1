@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d5a1793860c472f4d4740352397843f0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\49f864a8ed2735dfb59cb7d76032ddbf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8029b9a972d4d80963e2bd656a2800ce\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\d09dafef7bcf21042f7e162d90c068b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3cc1c56ca6b84e850bacbd2330de679a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e17ad62198d8ca6b740863f0975ae16b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f0f74d6cb0524f1e52f8e562747128e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\4ec752e87246462c525b36351b7871c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\50bfaeb14cbda0c4650c6c13c017403b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d9762d4b2e70fc2b9a0fbd8391f86474\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\a584cdf76091c33d8285821e6bf6d38c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\b044248aa09530573443dd72b4fee1e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\1182f7198b06b2d7da5f9e25b0328266\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\a0502a93f6782e011916f6873a66f8ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\bc83ebc7affe650bda2fab34868bafc0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a3332cda10ff03ddc6d0e53f05f13c10\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ef3e4060254184fdbdaaf5418ef73b9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\52cd718fbb1902db0a1aab57a676c255\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\658dd2d2489e5781b2733323a2c998ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\63d714f6b0e81ed2310563719e135f08\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c83c982157eabd3b46f45e402bf4de01\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\94e0facaae00bc614eb3657fd01edfdb\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\3f5664112be81970625c09acc482f42e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\bad62195aede6a6f08b76bc1f70a6bb4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7a6114e437be8bd85e90f66523b7a83e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e5410c58f60e1fe0bb3f418c5c20c6a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4b800690cfc0db721dcf4fe12d4ba8de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\84c6a398ab187237596f834983604b0b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\eaf3cc9bb1479b48b03716b5f078ef22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\1a47159e10114aa776c525d87e076b66\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\2d171d905d335d57a52e0bec41ca758a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e3ab4a16496b9f1b4395429b1e45174f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c0c0e381b2aa76f419b3a3918d788e1e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d5a1793860c472f4d4740352397843f0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d5a1793860c472f4d4740352397843f0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8029b9a972d4d80963e2bd656a2800ce\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8029b9a972d4d80963e2bd656a2800ce\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c83c982157eabd3b46f45e402bf4de01\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c83c982157eabd3b46f45e402bf4de01\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\94e0facaae00bc614eb3657fd01edfdb\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\94e0facaae00bc614eb3657fd01edfdb\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c83c982157eabd3b46f45e402bf4de01\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.taehyungkim.viewpagertut.MainActivity
+ADDED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d5a1793860c472f4d4740352397843f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d5a1793860c472f4d4740352397843f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\49f864a8ed2735dfb59cb7d76032ddbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\49f864a8ed2735dfb59cb7d76032ddbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8029b9a972d4d80963e2bd656a2800ce\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8029b9a972d4d80963e2bd656a2800ce\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\d09dafef7bcf21042f7e162d90c068b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\d09dafef7bcf21042f7e162d90c068b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3cc1c56ca6b84e850bacbd2330de679a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3cc1c56ca6b84e850bacbd2330de679a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e17ad62198d8ca6b740863f0975ae16b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e17ad62198d8ca6b740863f0975ae16b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f0f74d6cb0524f1e52f8e562747128e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f0f74d6cb0524f1e52f8e562747128e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\4ec752e87246462c525b36351b7871c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\4ec752e87246462c525b36351b7871c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\50bfaeb14cbda0c4650c6c13c017403b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\50bfaeb14cbda0c4650c6c13c017403b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d9762d4b2e70fc2b9a0fbd8391f86474\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d9762d4b2e70fc2b9a0fbd8391f86474\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\a584cdf76091c33d8285821e6bf6d38c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\a584cdf76091c33d8285821e6bf6d38c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\b044248aa09530573443dd72b4fee1e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\b044248aa09530573443dd72b4fee1e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\1182f7198b06b2d7da5f9e25b0328266\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\1182f7198b06b2d7da5f9e25b0328266\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\a0502a93f6782e011916f6873a66f8ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\a0502a93f6782e011916f6873a66f8ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\bc83ebc7affe650bda2fab34868bafc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\bc83ebc7affe650bda2fab34868bafc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a3332cda10ff03ddc6d0e53f05f13c10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a3332cda10ff03ddc6d0e53f05f13c10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ef3e4060254184fdbdaaf5418ef73b9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ef3e4060254184fdbdaaf5418ef73b9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\52cd718fbb1902db0a1aab57a676c255\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\52cd718fbb1902db0a1aab57a676c255\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\658dd2d2489e5781b2733323a2c998ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\658dd2d2489e5781b2733323a2c998ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\63d714f6b0e81ed2310563719e135f08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\63d714f6b0e81ed2310563719e135f08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c83c982157eabd3b46f45e402bf4de01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c83c982157eabd3b46f45e402bf4de01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\94e0facaae00bc614eb3657fd01edfdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\94e0facaae00bc614eb3657fd01edfdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\3f5664112be81970625c09acc482f42e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\3f5664112be81970625c09acc482f42e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\bad62195aede6a6f08b76bc1f70a6bb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\bad62195aede6a6f08b76bc1f70a6bb4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7a6114e437be8bd85e90f66523b7a83e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7a6114e437be8bd85e90f66523b7a83e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e5410c58f60e1fe0bb3f418c5c20c6a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e5410c58f60e1fe0bb3f418c5c20c6a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4b800690cfc0db721dcf4fe12d4ba8de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4b800690cfc0db721dcf4fe12d4ba8de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\84c6a398ab187237596f834983604b0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\84c6a398ab187237596f834983604b0b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\eaf3cc9bb1479b48b03716b5f078ef22\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\eaf3cc9bb1479b48b03716b5f078ef22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\1a47159e10114aa776c525d87e076b66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\1a47159e10114aa776c525d87e076b66\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\2d171d905d335d57a52e0bec41ca758a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\2d171d905d335d57a52e0bec41ca758a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e3ab4a16496b9f1b4395429b1e45174f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e3ab4a16496b9f1b4395429b1e45174f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c0c0e381b2aa76f419b3a3918d788e1e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Taehyung Kim\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c0c0e381b2aa76f419b3a3918d788e1e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Taehyung Kim\AndroidStudioProjects\Viewpagertut\app\src\main\AndroidManifest.xml
